@@ -37,12 +37,12 @@ const Nav = () => {
       <Link href="/" className="flex gap-2 flex-center">
         <Image
           src="/assets/images/logo.svg"
-          alt="promptopia"
+          alt="SharePrompts"
           width={30}
           height={30}
           className="object-contain"
         />
-        <p className="text_logo">Promptopia</p>
+        <p className="text_logo">SharePrompts</p>
       </Link>
 
       {/* {Desktop Navigation} */}
